@@ -1,5 +1,6 @@
-## Hi there 👋
+## Bonjour 👋
 
+Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionné par le développement full stack. Fort de solides expériences en front-end et back-end, notamment sur des projets en Spring Boot et Django, j'ai acquis un savoir-faire dans la création de plateformes interactives et optimisées pour l'expérience utilisateur. Polyvalent et motivé, je suis prêt à relever de nouveaux défis technologiques et à proposer des solutions innovantes.
 <!--
 **HamzaAitahmed/HamzaAitahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
