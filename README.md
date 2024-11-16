@@ -1,14 +1,11 @@
-<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaAitAhmed&theme=github_dark" /><h1/>
-## Bonjour 👋
-
-
-<hr/>
-## Bonjour 👋
-
+Bonjour 👋
 
 <h4 align="center">Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionné par le développement full stack. Fort de solides expériences en front-end et back-end, notamment sur des projets en Spring Boot et Django, j'ai acquis un savoir-faire dans la création de plateformes interactives et optimisées pour l'expérience utilisateur. Polyvalent et motivé, je suis prêt à relever de nouveaux défis technologiques et à proposer des solutions innovantes.</h4>
 <br>
 
+<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaAitAhmed&theme=github_dark" /><h1/>
+
+<hr/>
 
 ## 🛠️ My favorite tools and technologies ⚙️
 
@@ -68,6 +65,10 @@
       <br>Tailwind
     </td> -->
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
@@ -79,10 +80,7 @@
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
       <br>Nginx
     </td> -->
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-      <br>MySQL
-    </td>
+    
   </tr>
   <tr>
     <td align="center" width="96">
@@ -105,6 +103,10 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+      <br>MySQL
+    </td>
 <!--   </tr> -->
 <!--   <tr> -->
 <!--     <td align="center" width="96">
@@ -116,10 +118,7 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td> -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
+    
 <!--     <td align="center" width="96">
       <img src="logos/swagger.png" width="65" height="65" alt="Swagger" />
       <br>Swagger
