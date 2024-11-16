@@ -1,10 +1,12 @@
+<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaAitAhmed&theme=github_dark" /><h1/>
 ## Bonjour 👋
 
-Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionné par le développement full stack. Fort de solides expériences en front-end et back-end, notamment sur des projets en Spring Boot et Django, j'ai acquis un savoir-faire dans la création de plateformes interactives et optimisées pour l'expérience utilisateur. Polyvalent et motivé, je suis prêt à relever de nouveaux défis technologiques et à proposer des solutions innovantes.
-<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaAitAhmed&theme=github_dark" /><h1/>
 
 <hr/>
-<h4 align="center">I am a Junior dev guy , studying at EMSI school . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+## Bonjour 👋
+
+
+<h4 align="center">Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionné par le développement full stack. Fort de solides expériences en front-end et back-end, notamment sur des projets en Spring Boot et Django, j'ai acquis un savoir-faire dans la création de plateformes interactives et optimisées pour l'expérience utilisateur. Polyvalent et motivé, je suis prêt à relever de nouveaux défis technologiques et à proposer des solutions innovantes.</h4>
 <br>
 
 
@@ -13,31 +15,25 @@ Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionn�
 <table align="center">
   <tr>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="dart" />
+      <br>Java
+    </td>
+<!--     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="70" height="70" />
       <br>C#
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="logos/python.gif" alt="icon" width="65" height="65" />
       <br>Python
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>Typescript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="dart" />
-      <br>Java
-    </td>
+    </td>  -->
     <td align="center"  width="96">
       <img src="logos/html.gif" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -47,19 +43,30 @@ Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionn�
       <br>CSS
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    
+  </tr>
+  <tr>
+<!--     <td align="center" width="96">
       <img src="logos/node.gif" alt="icon" width="65" height="65"/>
       <br>Node
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
+      <img src="https://www.edc4it.com/images/thumbs/spring.gif" width="48" height="48" alt="dart" />
+      <br>Spring
+    </td>
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
@@ -68,10 +75,10 @@ Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionn�
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
       <br>Nginx
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
@@ -86,10 +93,10 @@ Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionn�
       <img src="logos/gitlab.gif" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
@@ -98,31 +105,28 @@ Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionn�
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.edc4it.com/images/thumbs/spring.gif" width="48" height="48" alt="dart" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    
+<!--     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="logos/swagger.png" width="65" height="65" alt="Swagger" />
       <br>Swagger
-    </td>
+    </td> -->
   </tr>
-  <tr>
-  <td align="center" width="96">
+<!--   <tr> -->
+<!--   <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
@@ -142,7 +146,7 @@ Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionn�
       <img src="logos/canva.png" width="48" height="48" alt="Adobe XD" />
       <br>Canva
     </td>
-    </tr>
+    </tr> -->
 </table>
 
 ## 📊 Github Stats (Expand to View) 
