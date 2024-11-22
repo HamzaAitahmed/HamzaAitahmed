@@ -15,22 +15,10 @@
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="dart" />
       <br>Java
     </td>
-<!--     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="70" height="70" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td> -->
     <td align="center" width="96">
       <img src="logos/python.gif" alt="icon" width="65" height="65" />
       <br>Python
     </td>
-<!--     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>  -->
     <td align="center"  width="96">
       <img src="logos/html.gif" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -43,44 +31,28 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    
   </tr>
   <tr>
-<!--     <td align="center" width="96">
-      <img src="logos/node.gif" alt="icon" width="65" height="65"/>
-      <br>Node
-    </td> -->
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
     <td align="center" width="96">
       <img src="https://www.edc4it.com/images/thumbs/spring.gif" width="48" height="48" alt="dart" />
       <br>Spring
     </td>
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td> -->
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
-    </td>
-<!--     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td> -->
-    
+    </td>    
   </tr>
   <tr>
     <td align="center" width="96">
@@ -91,10 +63,6 @@
       <img src="logos/gitlab.gif" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
-<!--      <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
