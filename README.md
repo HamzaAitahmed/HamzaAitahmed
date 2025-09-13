@@ -149,5 +149,6 @@
 
 
 <h4 align="center">visitors number <br> <img src="https://profile-counter.glitch.me/HamzaAitAhmed/count.svg">  </h4>
+![](https://komarev.com/ghpvc/?username=HamzaAitahmed&color=brightgreen)
 
 <hr/>
