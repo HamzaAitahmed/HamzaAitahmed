@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=HamzaAitahmed&color=brightgreen">
 ## Bonjour 👋
 
 <h4 align="center">Je suis Hamza Ait Ahmed, futur ingénieur en informatique et réseaux, passionné par le développement full stack. Fort de solides expériences en front-end et back-end, notamment sur des projets en Spring Boot et Django, j'ai acquis un savoir-faire dans la création de plateformes interactives et optimisées pour l'expérience utilisateur. Polyvalent et motivé, je suis prêt à relever de nouveaux défis technologiques et à proposer des solutions innovantes.</h4>
@@ -146,8 +147,5 @@
     <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamzaAitAhmed&theme=github_dark" height="192px"/>
   </p>
 </details>
-
-
-<h4 align="center">visitors number <br> <img src="https://komarev.com/ghpvc/?username=HamzaAitahmed&color=brightgreen">  </h4>
 
 <hr/>
